@@ -12,4 +12,4 @@ I'm a Full-stack Web Developer, Tech Enthusiast, Software Engineer
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeWithDiki&show_icons=true&theme=gotham" alt="codeWithDiki" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ddr137)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codeWithDiki)
